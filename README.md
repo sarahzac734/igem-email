@@ -5,7 +5,7 @@
 
 <div class="container">
   <a href="mailto:umarylandigem@gmail.com"> 
-  <img class="image" src="email.png" width ="420" height="720">
+  <img class="image" src="email.png" width ="400" height="400">
   <div class="overlay">
 
 </body>
