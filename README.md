@@ -2,10 +2,11 @@
 <html lang="en">
 <head>
   
-<p> 
-Email: <a href="mailto:umarylandigem@gmail.com">umarylandigem@gmail.com</a><br>
-</p>
-<p>
+
+<div class="container">
+  <a href="mailto:umarylandigem@gmail.com"> 
+  <img class="image" src="email.png" width ="100" height="100">
+  <div class="overlay">
 
 </body>
 </html>
