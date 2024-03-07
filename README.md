@@ -3,7 +3,7 @@
 <head>
   
 <p> 
-Email: <a href="mailto:szachar2@terpmail.umd.edu">szachar2@terpmail.umd.edu</a><br>
+Email: <a href="mailto:umarylandigem@gmail.com">umarylandigem@gmail.com</a><br>
 </p>
 <p>
 
