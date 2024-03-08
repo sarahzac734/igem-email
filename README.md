@@ -5,6 +5,7 @@
     
 </body>
     <h1>Contact us:</h1>
+    <p>Join Us!</p>
     <p>Instagram: </p>
 </body>
 
