@@ -4,7 +4,7 @@
 
 </body>
     <h1>Contact us:</h1>
-    <p>Emai:l</p>
+    <p>Email: </p>
 </body>
   
 <div class="container">
