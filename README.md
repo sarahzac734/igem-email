@@ -9,7 +9,6 @@
     <p>Instagram: </p>
 </body>
 
-
 <div class="container">
   <a href="https://www.instagram.com/umarylandigem/">
   <img class="image" src="insta.png" width ="100" height="100">
@@ -21,7 +20,7 @@
 
 <div class="container">
   <a href="mailto:umarylandigem@gmail.com"> 
-  <img class="image" src="email.png" width ="100" height="100">
+  <img class="image" src="email.png" width ="200" height="100">
   <div class="overlay">
 </html>
     
