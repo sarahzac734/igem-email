@@ -4,9 +4,8 @@
 <head>
     
 <body>
-    <head>
-        <h1> Contact Us!</h1>
-    </head>
+    <title>Contact Us!</title>
+
 <main>
     <p>Instagram:</p>
 <div class="container">
