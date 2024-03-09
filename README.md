@@ -15,7 +15,9 @@
   <a href="https://www.instagram.com/umarylandigem/">
   <img class="image" src="insta.png" width ="100" height="100">
   <div class="overlay">
-
+<p>
+<br clear="right" />
+  </p>
 <p>Email:</p>
 <div class="container">
   <a href="mailto:umarylandigem@gmail.com"> 
