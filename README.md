@@ -17,7 +17,7 @@
 <h1>Email:</h1>
 <div class="container">
   <a href="mailto:umarylandigem@gmail.com"> 
-  <img class="image" src="mail.png" width ="200" height="100">
+  <img class="image" src="mail.png" width ="100" height="100">
   <div class="overlay">
 </main>
 
