@@ -5,7 +5,7 @@
     
 <body>
 <p>
-<h2><b>Contact Us!</h2></b>
+<h2><b>CONTACT US</h2></b>
 </p>
 
 
