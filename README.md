@@ -10,7 +10,7 @@
 
 
 <main>
-    <p>Instagram:</p>
+    <p>FOLLOW US ON SOCIAL MEDIA:</p>
 <div class="container">
   <a href="https://www.instagram.com/umarylandigem/">
   <img class="image" src="insta.png" width ="100" height="100">
@@ -20,7 +20,7 @@
 <br clear="right" />
 </p>
 
-<p>Email:</p>
+<p>EMAIL:</p>
 <div class="container">
   <a href="mailto:umarylandigem@gmail.com"> 
   <img class="image" src="mail.png" width ="100" height="100">
